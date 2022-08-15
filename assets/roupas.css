@@ -1,0 +1,22 @@
+.roupa{
+    display: flex;
+    justify-content: center;
+}
+
+.titulo{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.exemplo {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    margin-left: 30%;
+}
+
+.active :hover{
+    background-color: #00bbf9;
+}
